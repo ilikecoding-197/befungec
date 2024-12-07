@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(BefungeC VERSION 1.0.0)
+configure_file( "include/version.h.in" "include/version.h")
+add_executable(befungec src/main.c)
+target_include_directories(befungec PUBLIC "${CMAKE_CURRENT_BINARY_DIR}")

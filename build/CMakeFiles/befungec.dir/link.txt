@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/befungec.dir/src/main.c.o -o befungec 
