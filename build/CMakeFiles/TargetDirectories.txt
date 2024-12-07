@@ -1,3 +1,0 @@
-/home/thomas/befungec/build/CMakeFiles/befungec.dir
-/home/thomas/befungec/build/CMakeFiles/edit_cache.dir
-/home/thomas/befungec/build/CMakeFiles/rebuild_cache.dir
