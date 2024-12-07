@@ -2,4 +2,4 @@
 Befunge in C.
 
 # Building
-[See this.](BUILDING.MD)
+[See this.](BUILDING.md)
